@@ -1,0 +1,6 @@
+NIK,Nama,Email,No.Telepon,Status 
+123456789,Andi Achmad,andi.achmad@gmail.com,08123456789,Pasien
+123456788,Defa Danuarta,defa.danuarta@yahoo.com,08123456788,Dokter
+123456787,Owen Limantoro,owen.limantoro@binus.ac.id,08123456787,Admin
+1212121212,Budi,budi@gmail.com,0123456789,Dokter
+123456789,Defa,defa,2,Dokter
